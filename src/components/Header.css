@@ -1,0 +1,22 @@
+nav {
+    background-color: #805354;
+    padding: 1px;
+    margin: 0px;
+}
+
+nav ul li {
+    display: inline;
+    padding: 10px;
+    margin: 2px;
+    background-color: #c19595;
+}
+
+nav ul li:hover {
+    background-color: #a8a8a8;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
